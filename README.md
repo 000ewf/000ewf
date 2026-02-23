@@ -1,12 +1,6 @@
-### Olá eu sou o 000ewf👋
+### Hi!
 
-- Hey ! 
-- Atualmente eu estou estudando a Pós-Graduação em Segurança da Informação.
-##
-<div><br>
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=000ewf&show_icons=true&theme=merko"/>
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=000ewf&layout=compact&theme=merko"/>   
-</div>
+
 
 ##
 
